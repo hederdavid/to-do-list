@@ -9,6 +9,9 @@
 
 html {
   height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background: linear-gradient(45deg, #1c3d92, #2a7fff);
   background-repeat: no-repeat;
 }
